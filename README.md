@@ -2,7 +2,7 @@
 
 ## Profile
 
-* **Type:** Collection
+* **Type:** Table
 * **Section:** available
 * **Actions:** cell left swipe
 * **Image required:** yes

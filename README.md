@@ -1,4 +1,4 @@
-<p align="center"><img src="https://developer.4d.com/4d-for-ios/docs/assets/en/templates/Profile-List-form.gif" alt="Profile" height="auto" width="300"></p>
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-list-Profile/blob/master/template.gif" alt="Profile" height="auto" width="300"></p>
 
 ## Profile
 
